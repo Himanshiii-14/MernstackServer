@@ -1,0 +1,3 @@
+# this means we don't want this to be deployed
+/node_modules
+/data/config.env 
